@@ -7,5 +7,3 @@ class Array:
                 self.shape = (len(data), len(data[0]))
             else:
                 self.shape = (1, len(data))
-
-    def 
