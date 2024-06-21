@@ -8,7 +8,7 @@ class Array:
             else:
                 self.shape = (1, len(data))
 
-    def     def __add__(self, other: "Array"):
+    def __add__(self, other: "Array"):
         print(len(other.data))
         if self.shape == other.shape:
             return [other.data[i] + self.data[i] for i in range(len(other.data)) if other.data == List[int]]
