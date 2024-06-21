@@ -33,7 +33,9 @@ class Array:
     def __add__(self, other: "Array"):
         print(len(other.data))
         if self.shape == other.shape:
-            return [other.data[i] + self.data[i] for i in range(len(other.data)) if other.data == List[int]]
+            return [other.data[i] + self.data[i] for i in range(len(other.data))] #1D
+        else:
+            raise ValueError("Erreur d'addition: Addition doit etre fait entre des tableau de meme shape")
 
 
 # # Test
