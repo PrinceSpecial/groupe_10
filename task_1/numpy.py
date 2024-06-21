@@ -29,14 +29,24 @@ class Array:
 
     def __repr__(self):
         return f"Array({self.data})"
+        
+    def __add__(self, other: "Array"):
+        print(len(other.data))
+        if self.shape == other.shape:
+            return [other.data[i] + self.data[i] for i in range(len(other.data)) if other.data == List[int]]
 
 
-# Test
-f = Array([[4,4],[4]])
-print(f)
-print(f.shape)
+# # Test
+# f = Array([[4,4],[4]])
+# print(f)
+# print(f.shape)
 
-f = Array([[4,4],[2, 1]])
-print(f)
-print(f.shape)
+# f = Array([[4,4],[2, 1]])
+# print(f)
+# print(f.shape)
 
+b = Array([1, 2, 3, 4])
+a = Array([1, 2, 3, 4])
+# print(a)
+c = a + b
+print(c)
