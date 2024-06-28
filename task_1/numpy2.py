@@ -59,4 +59,17 @@ class Array:
             if len(self.shape) == 1:
                 return Array([operation(x, other) for x in self.data])
             else:
-                raise ValueError("Erreur : " + operation_name + "  scalaire non supporté sur les array 2D")
+                return Array([[operation(x, other) for x in row] for row in self.data])
+            
+    def __len__(self):
+        return len(self.data)
+    
+    def __matmul__(self, other):
+        if not isinstance(other, Array):
+            raise TypeError("Le produit scalaire est fait sur deux Arrays")
+        if len(self.shape) != 1 or len(other.shape) != 1:
+            raise ValueError("Produit scalaire supporté pour les 1D, veuillez reesayer avec un array 1D")
+        if len(self) != len(other):
+            raise ValueError("Les deux Arrays doivent avoir la même longueur")
+        
+        return sum(x * y for x, y in zip(self.data, other.data))
