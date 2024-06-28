@@ -1,10 +1,10 @@
 ![Alt text](images/Projet_Final_-_Python_R.png)
 
-![Static Badge](https://img.shields.io/badge/Groupe_9-IFRI_L2-bright_green)
+![Static Badge](https://img.shields.io/badge/Groupe_10-IFRI_L2_2023/2024-bright_green)
 
 # Configuration de l’environnement virtuel
 
-##Créer l'environnement virtuel
+## Créer l'environnement virtuel
 
 ![Alt text](images/venv.png)
 
@@ -24,7 +24,7 @@
 
 ## Mode de fonctionnement
 
-Le group a été divisé en trois parties pour chaque tâche
+Après Brainstorming, le groupe a été divisé en trois parties pour chaque tâche
 
 ### Task 1
 | Nom        | Prénoms            | Filière |               Contribution                              |
@@ -45,20 +45,20 @@ Le group a été divisé en trois parties pour chaque tâche
 |----------------|-----------------------|---------|---------------------------------------------------------|
 |      AKPO      |       Spéro           |   GL    |       Revue et Apport sur Task 3                        |
 | CODJIA TOGNIDE |       Elcy            |   GL    |           Apport sur Task 3                             |
-|     BADOU      | Jehovany Lauren Valdo |   IA    |                       -                                 |
+|     BADOU      | Jehovany Lauren Valdo |   IA    |             Revue et Apport                             |
 |   EGBOGBE      |      Oconel           |   GL    |   Interface graphique, Intégration du model et codage   |
 
 ## Contribution
 | Nom       et Prénoms            | Nom d'utilisateur GitHub | Participation |
 |---------------------------------|--------------------------|---------------|
-|  AHOUANHOU        Fidel         |        Delprogram        |               |
-|      AKPO       Spéro           |        mcspirou6         |               |
-|     BADOU Jehovany Lauren Valdo |        Badou-jeho        |               |
-|    CODJIA TOGNIDE   Elcy        |        Ichmella19        |               |
-|       EGBOGBE          Oconel   |        Oconel2004        |               |
-|   EKPINDA          Sarkis       |        sarkisayeto       |               |
-|   GBOLAHAN  Temitayo Ismail A.  |       PrinceSpecial      |               |
-| SALAMI  Naim Nouhr O. Abiola A. |       abiolasalami       |               |
-|    SENOU      Essé   Axel       |         AxelSenou        |               |
-|   WEDJANGNON    Axel            |       wedjangnonaxel     |               | 
+|  AHOUANHOU        Fidel         |        Delprogram        |       10      |
+|      AKPO       Spéro           |        mcspirou6         |       5       |
+|     BADOU Jehovany Lauren Valdo |        Badou-jeho        |       8       |
+|    CODJIA TOGNIDE   Elcy        |        Ichmella19        |       10      |
+|       EGBOGBE          Oconel   |        Oconel2004        |       13      |
+|   EKPINDA          Sarkis       |        sarkisayeto       |       16      |
+|   GBOLAHAN  Temitayo Ismail A.  |       PrinceSpecial      |       17      |
+| SALAMI  Naim Nouhr O. Abiola A. |       abiolasalami       |       15      |
+|    SENOU      Essé   Axel       |         AxelSenou        |       1       |
+|   WEDJANGNON    Axel            |       wedjangnonaxel     |       5       |
 
