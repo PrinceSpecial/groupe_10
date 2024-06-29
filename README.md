@@ -12,10 +12,10 @@
 
 ## Activer l'environnement
 ### Windows:
-`venv\Scripts\activate (Windows)`
+`venv\Scripts\activate`
 
 ### Mac
-`source venv/bin/activate (MacOS)`
+`source venv/bin/activate`
 
 # Installer les dépendances
 `pip install -r requirements.txt`
@@ -52,13 +52,13 @@ Après Brainstorming, le groupe a été divisé en trois parties pour chaque tâ
 | Nom       et Prénoms            | Nom d'utilisateur GitHub | Participation |
 |---------------------------------|--------------------------|---------------|
 |  AHOUANHOU        Fidel         |        Delprogram        |       10      |
-|      AKPO       Spéro           |        mcspirou6         |       5       |
+|      AKPO       Spéro           |        mcspirou6         |       10      |
 |     BADOU Jehovany Lauren Valdo |        Badou-jeho        |       8       |
 |    CODJIA TOGNIDE   Elcy        |        Ichmella19        |       10      |
 |       EGBOGBE          Oconel   |        Oconel2004        |       13      |
-|   EKPINDA          Sarkis       |        sarkisayeto       |       16      |
-|   GBOLAHAN  Temitayo Ismail A.  |       PrinceSpecial      |       17      |
-| SALAMI  Naim Nouhr O. Abiola A. |       abiolasalami       |       15      |
+|   EKPINDA          Sarkis       |        sarkisayeto       |       15      |
+|   GBOLAHAN  Temitayo Ismail A.  |       PrinceSpecial      |       16      |
+| SALAMI  Naim Nouhr O. Abiola A. |       abiolasalami       |       12      |
 |    SENOU      Essé   Axel       |         AxelSenou        |       1       |
 |   WEDJANGNON    Axel            |       wedjangnonaxel     |       5       |
 
